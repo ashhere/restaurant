@@ -1,8 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## create fake json server run both command below: 
+      npm install -g json-server 
+      json-server --watch db.json
+
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+## First run json server "json-server --watch db.json" and then npm start.
 
 ### `npm start`
 
