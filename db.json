@@ -1,0 +1,39 @@
+{
+  "resturant": [
+    {
+      "name": "hsd4",
+      "address": "kjn",
+      "rating": "jkns",
+      "email": "sas",
+      "id": 1
+    },
+    {
+      "name": "dsd",
+      "address": "dsd",
+      "rating": "2",
+      "email": "sadas@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "ddd",
+      "address": "dasd",
+      "rating": "2",
+      "email": "q@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "dqw",
+      "address": "dwd",
+      "rating": "3",
+      "email": "dwd",
+      "id": 4
+    },
+    {
+      "name": "dwd",
+      "address": "dw",
+      "rating": "2",
+      "email": "dasd",
+      "id": 5
+    }
+  ]
+}
